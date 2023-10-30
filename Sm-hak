@@ -1,0 +1,25 @@
+print("Facebook Brute Force get password")
+print("")
+
+print("1. Instagram ")
+print("2. X")
+print("3. FaceBook")
+print ("4. Thread ")
+print("5.Tiktok")
+print("6. Exit")
+
+choice = input("Enter a number (1-6): ")
+
+if input == "3":
+  print("ENTER FB NAME:")
+
+choice = input("ENTER FB NAME:")
+
+if input =="Saiyara Jas":
+  print("Facebook Brute force get password ")
+  print("wait for 30 sec")
+print("Facebook Saiyara Jas brute force get password ")
+print ("wait for 30 sec")
+print ("wait for 20 sec")
+print ( "wait for 10 sec")
+print ("Password has been found"
